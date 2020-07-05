@@ -1,12 +1,14 @@
 ---
 title: Meta-Learning综述
-date: 2018-12-17 10:28:28
-categories: Meta Learning
+categories:
+  - AutoML
 tags:
   - Machine Learning
   - Auto Sklearn
   - Meta Learning
 katex: true
+abbrlink: baccc113
+date: 2018-12-17 10:28:28
 ---
 
 ## Meta-Learning概述

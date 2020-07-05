@@ -1,12 +1,14 @@
 ---
 title: 使用Docker搭建Geomesa集群
+categories:
+  - Big Data
+tags:
+  - Docker
+  - GeoMesa
+  - Distribute Computing
+  - Spatial-Temporal Big Data
+abbrlink: 7ad08436
 date: 2016-08-30 13:33:28
-categories: Spatial-Temporal Big Data
-tags: 
- - Docker
- - GeoMesa
- - Distribute Computing
- - Spatial-Temporal Big Data
 ---
 本文记录了使用Docker搭建Geomesa集群的过程，该Docker基于Github项目[hadoop-cluster-docker](https://github.com/kiwenlau/hadoop-cluster-docker)，安装了Hadoop 2.7.2、Spark 2.0.0、Accumulo 1.7.2等分布式系统相关软件。
 

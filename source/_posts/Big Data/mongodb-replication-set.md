@@ -1,10 +1,12 @@
 ---
 title: MongoDB Replication Set 安装与配置
+categories:
+  - Big Data
+tags:
+  - MongoDB
+  - Distribute Computing
+abbrlink: f280582b
 date: 2016-08-30 13:38:55
-categories: Big Data
-tags: 
- - MongoDB
- - Distribute Computing
 ---
 本篇文章记录了MongoDB复制集集群配置过程及注意事项，并提供了相应配置说明，另外也对MongoDB复制集集群如何配置用户名密码登陆做了说明。本文采用系统为Ubuntu 14.04 x64版本，使用配置APT源的方式获取并安装最新版MongoDB。
 

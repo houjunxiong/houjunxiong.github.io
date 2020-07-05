@@ -1,12 +1,14 @@
 ---
 title: Auto-Sklearn原理与架构
-date: 2018-11-23 13:33:28
-categories: AutoML
+categories:
+  - AutoML
 tags:
   - Machine Learning
   - Auto Sklearn
   - Meta Learning
 katex: true
+abbrlink: 51c67e59
+date: 2018-11-23 13:33:28
 ---
 
 ## AutoML定义

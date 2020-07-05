@@ -71,6 +71,8 @@ aside:
     site_wordcount: 本站總字數
     site_uv_name: 本站訪客數
     site_pv_name: 本站總訪問量
+  card_clustrmaps:
+    headline: 訪客来源
   more_button: 檢視更多
 
 donate: 打賞

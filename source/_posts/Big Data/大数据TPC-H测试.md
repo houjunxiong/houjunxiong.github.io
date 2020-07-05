@@ -1,12 +1,14 @@
 ---
 title: 大数据TPC-H测试
+categories:
+  - Big Data
+tags:
+  - Spark SQL
+  - Presto
+  - Apache Kylin
+  - TPC-H
+abbrlink: 25d522bb
 date: 2018-12-14 13:38:55
-categories: Big Data
-tags: 
- - Spark SQL
- - Presto
- - Apache Kylin
- - TPC-H
 ---
 
 ## TPC-H标准

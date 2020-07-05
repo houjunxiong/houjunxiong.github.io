@@ -1,11 +1,13 @@
 ---
 title: Spark任务Yarn模式参数配置
+categories:
+  - Big Data
+tags:
+  - Spark SQL
+  - Yarn
+  - Distribute Computing
+abbrlink: b309134a
 date: 2018-12-14 13:38:55
-categories: Big Data
-tags: 
- - Spark SQL
- - Yarn
- - Distribute Computing
 ---
 
 Spark任务Yarn模式启动需要配置Driver、Executor参数，以Spark SQL Thrift Server为例，其启动配置如下：

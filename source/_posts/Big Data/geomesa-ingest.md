@@ -1,11 +1,13 @@
 ---
 title: Geomesa 导入矢量数据
-date: 2016-08-30 18:36:07
-categories: Spatial-Temporal Big Data
+categories:
+  - Big Data
 tags:
- - GeoMesa
- - Distribute Computing
- - Spatial-Temporal Big Data
+  - GeoMesa
+  - Distribute Computing
+  - Spatial-Temporal Big Data
+abbrlink: 830dbe9
+date: 2016-08-30 18:36:07
 ---
 本文以纽约市出租车数据为例，描述了向Geomesa中导入矢量数据的过程。
 

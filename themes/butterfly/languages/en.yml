@@ -69,6 +69,8 @@ aside:
     site_wordcount: Total Count
     site_uv_name: UV
     site_pv_name: PV
+  card_clustrmaps:
+    headline: Global
   more_button: More
 
 donate: Donate
