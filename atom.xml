@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Edward Hou&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://houjunxiong.me/"/>
+  <updated>2020-07-05T04:51:44.884Z</updated>
+  <id>http://houjunxiong.me/</id>
+  
+  <author>
+    <name>Edward</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Meta-Learning综述</title>
+    <link href="http://houjunxiong.me/posts/baccc113/"/>
+    <id>http://houjunxiong.me/posts/baccc113/</id>
+    <published>2018-12-17T10:28:28.000Z</published>
+    <updated>2020-07-05T04:51:44.884Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="AutoML" scheme="http://houjunxiong.me/categories/AutoML/"/>
+    
+    
+      <category term="Machine Learning" scheme="http://houjunxiong.me/tags/Machine-Learning/"/>
+    
+      <category term="Auto Sklearn" scheme="http://houjunxiong.me/tags/Auto-Sklearn/"/>
+    
+      <category term="Meta Learning" scheme="http://houjunxiong.me/tags/Meta-Learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spark任务Yarn模式参数配置</title>
+    <link href="http://houjunxiong.me/posts/b309134a/"/>
+    <id>http://houjunxiong.me/posts/b309134a/</id>
+    <published>2018-12-14T13:38:55.000Z</published>
+    <updated>2020-07-05T04:51:44.884Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Big Data" scheme="http://houjunxiong.me/categories/Big-Data/"/>
+    
+    
+      <category term="Spark SQL" scheme="http://houjunxiong.me/tags/Spark-SQL/"/>
+    
+      <category term="Yarn" scheme="http://houjunxiong.me/tags/Yarn/"/>
+    
+      <category term="Distribute Computing" scheme="http://houjunxiong.me/tags/Distribute-Computing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据TPC-H测试</title>
+    <link href="http://houjunxiong.me/posts/25d522bb/"/>
+    <id>http://houjunxiong.me/posts/25d522bb/</id>
+    <published>2018-12-14T13:38:55.000Z</published>
+    <updated>2020-07-05T04:51:44.884Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Big Data" scheme="http://houjunxiong.me/categories/Big-Data/"/>
+    
+    
+      <category term="Spark SQL" scheme="http://houjunxiong.me/tags/Spark-SQL/"/>
+    
+      <category term="Presto" scheme="http://houjunxiong.me/tags/Presto/"/>
+    
+      <category term="Apache Kylin" scheme="http://houjunxiong.me/tags/Apache-Kylin/"/>
+    
+      <category term="TPC-H" scheme="http://houjunxiong.me/tags/TPC-H/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Auto-Sklearn原理与架构</title>
+    <link href="http://houjunxiong.me/posts/51c67e59/"/>
+    <id>http://houjunxiong.me/posts/51c67e59/</id>
+    <published>2018-11-23T13:33:28.000Z</published>
+    <updated>2020-07-05T04:51:44.884Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="AutoML" scheme="http://houjunxiong.me/categories/AutoML/"/>
+    
+    
+      <category term="Machine Learning" scheme="http://houjunxiong.me/tags/Machine-Learning/"/>
+    
+      <category term="Auto Sklearn" scheme="http://houjunxiong.me/tags/Auto-Sklearn/"/>
+    
+      <category term="Meta Learning" scheme="http://houjunxiong.me/tags/Meta-Learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Geomesa 导入矢量数据</title>
+    <link href="http://houjunxiong.me/posts/830dbe9/"/>
+    <id>http://houjunxiong.me/posts/830dbe9/</id>
+    <published>2016-08-30T18:36:07.000Z</published>
+    <updated>2020-07-05T04:51:44.884Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Big Data" scheme="http://houjunxiong.me/categories/Big-Data/"/>
+    
+    
+      <category term="Distribute Computing" scheme="http://houjunxiong.me/tags/Distribute-Computing/"/>
+    
+      <category term="GeoMesa" scheme="http://houjunxiong.me/tags/GeoMesa/"/>
+    
+      <category term="Spatial-Temporal Big Data" scheme="http://houjunxiong.me/tags/Spatial-Temporal-Big-Data/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MongoDB Replication Set 安装与配置</title>
+    <link href="http://houjunxiong.me/posts/f280582b/"/>
+    <id>http://houjunxiong.me/posts/f280582b/</id>
+    <published>2016-08-30T13:38:55.000Z</published>
+    <updated>2020-07-05T04:51:44.884Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Big Data" scheme="http://houjunxiong.me/categories/Big-Data/"/>
+    
+    
+      <category term="Distribute Computing" scheme="http://houjunxiong.me/tags/Distribute-Computing/"/>
+    
+      <category term="MongoDB" scheme="http://houjunxiong.me/tags/MongoDB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Docker搭建Geomesa集群</title>
+    <link href="http://houjunxiong.me/posts/7ad08436/"/>
+    <id>http://houjunxiong.me/posts/7ad08436/</id>
+    <published>2016-08-30T13:33:28.000Z</published>
+    <updated>2020-07-05T04:51:44.884Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Big Data" scheme="http://houjunxiong.me/categories/Big-Data/"/>
+    
+    
+      <category term="Distribute Computing" scheme="http://houjunxiong.me/tags/Distribute-Computing/"/>
+    
+      <category term="Docker" scheme="http://houjunxiong.me/tags/Docker/"/>
+    
+      <category term="GeoMesa" scheme="http://houjunxiong.me/tags/GeoMesa/"/>
+    
+      <category term="Spatial-Temporal Big Data" scheme="http://houjunxiong.me/tags/Spatial-Temporal-Big-Data/"/>
+    
+  </entry>
+  
+</feed>
